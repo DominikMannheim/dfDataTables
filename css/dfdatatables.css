@@ -1,0 +1,12 @@
+/* dfDataTables Basis-Style */
+#dfdatatable {
+    border: 1px solid #ddd;
+}
+#dfdatatable th, #dfdatatable td {
+    padding: 8px;
+    text-align: left;
+}
+#dfdatatable tr:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
+}
